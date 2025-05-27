@@ -128,3 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /data/
+
+# 隐藏文件
+.idea
+.DS_Store
